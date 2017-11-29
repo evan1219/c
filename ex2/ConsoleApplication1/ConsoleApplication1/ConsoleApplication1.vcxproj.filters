@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ex2_1.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_2.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_3.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_4.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_5.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_6.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_7.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_8.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_9.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW1\HW1\ex2_HW1.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW2\HW2\ex2_HW2.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW3\HW3\ex2_HW3.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW4\HW4\ex2_HW4.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW5\HW5\ex2_HW5.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW6\HW6\ex2_HW6_1.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW6-2\HW6-2\ex2_HW6_2.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW6-3\HW6-3\ex2_HW6_3.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW6-4\HW6-4\ex2_HW6_4.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\workspace\VS2013\ex2\0830\HW6-5\HW6-5\ex2_HW6_5.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ex2_main.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

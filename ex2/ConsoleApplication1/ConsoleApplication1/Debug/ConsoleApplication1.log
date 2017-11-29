@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Total.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  ex2_main.c
+  ex2_9.c
+  ex2_8.c
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): warning C4477: 'scanf_s' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): warning C4477: 'scanf_s' : 格式字串 '%c' 需要 'unsigned int' 類型的引數，但 variadic 引數 3 的類型為 'float *'
+  c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): note: 此引數可用為緩衝區大小
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): note: 預留位置及其參數需要 4 個 variadic 引數，但卻提供了 3 個
+  c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(8): note: 缺少 variadic 引數 4 (其為格式字串 '%d' 所需)
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\class\ex2\consoleapplication1\consoleapplication1\ex2_8.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+  ex2_7.c
+  ex2_6.c
+  ex2_5.c
+  ex2_4.c
+  ex2_3.c
+  ex2_2.c
+  ex2_1.c
+  ex2_HW6_1.c
+  ex2_HW6_5.c
+  ex2_HW6_4.c
+  ex2_HW6_3.c
+  ex2_HW6_2.c
+  ex2_HW5.c
+c:\workspace\vs2013\ex2\0830\hw5\hw5\ex2_hw5.c(11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ex2_HW4.c
+c:\workspace\vs2013\ex2\0830\hw4\hw4\ex2_hw4.c(10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ex2_HW3.c
+  ex2_HW2.c
+c:\workspace\vs2013\ex2\0830\hw2\hw2\ex2_hw2.c(8): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ex2_HW1.c
+  正在產生程式碼...
+  ConsoleApplication1.vcxproj -> C:\class\ex2\ConsoleApplication1\Debug\ex2.exe
+  ConsoleApplication1.vcxproj -> C:\class\ex2\ConsoleApplication1\Debug\ex2.pdb (Partial PDB)

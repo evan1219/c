@@ -1,0 +1,4 @@
+﻿  ex_2b.c
+c:\class\ex8\ch8\ch9\ex_2b.c(16): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ch9.vcxproj -> C:\class\ex8\ch8\x64\Debug\ch9.exe
+  ch9.vcxproj -> C:\class\ex8\ch8\x64\Debug\ch9.pdb (Partial PDB)

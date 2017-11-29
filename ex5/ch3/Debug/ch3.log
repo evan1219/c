@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (ch3.vcxproj, ex3.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  ex5_main.c
+c:\class\ex5\ch3\ex5_main.c(69): warning C4013: 'ex7_4d' 未定義; 假設 extern 傳回整數
+  ex7_4d.c
+  正在產生程式碼...
+  ch3.vcxproj -> C:\class\ex5\ch3\Debug\ex5.exe
+  ch3.vcxproj -> C:\class\ex5\ch3\Debug\ex5.pdb (Partial PDB)

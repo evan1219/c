@@ -1,0 +1,5 @@
+﻿  pra1.c
+c:\class\ex8\ch8\ch1115\pra1.c(10): warning C4013: 'getche' 未定義; 假設 extern 傳回整數
+c:\class\ex8\ch8\ch1115\pra1.c(13): warning C4013: 'isalnum' 未定義; 假設 extern 傳回整數
+  ch1115.vcxproj -> C:\class\ex8\ch8\x64\Debug\ch1115.exe
+  ch1115.vcxproj -> C:\class\ex8\ch8\x64\Debug\ch1115.pdb (Partial PDB)
